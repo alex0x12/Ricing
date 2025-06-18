@@ -3,7 +3,7 @@ Here I provide my polybar configuration and scripts
 ## After installation you'll get something like this:
 ![alt text](./img/polybar.png "polybar.png")
 ## Dependencies - Essential
-- alacritty awk bash blueman bluetoothctl cava coreutils curl nvidia-settings(AMD analogue) pactl polybar sensors sshd tmux xset
+- alacritty awk bash blueman bluetoothctl cava coreutils curl jq nvidia-settings nvidia-utils (AMD analogue) pactl polybar sensors sshd tmux xset
 - [OpenWeatherMap API Key](https://home.openweathermap.org/users/sign_in)	
 - [FiraCode Nerd Fonts](https://www.nerdfonts.com/font-downloads)
 ## Dependencies - Optional
