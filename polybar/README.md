@@ -13,7 +13,7 @@ Here I provide my polybar configuration and scripts
 - *(Optional)* Launch `./autoconfig/autoconf.sh`
 - Insert your <ins>OpenWeatherMap API Key</ins> in `./scripts/weather.sh`
 - *(Optional)* Change color scheme with `./autoconfig/chcolor.sh`
-- Move root directory to `~/home/.config`
+- Move root directory to `~/.config`
 
 **NOTE**: `./scripts/gputempctl.sh` provides GPU temp. end fan info but also controlls it via nvidia-settings. Obviously, it won't work if AMD GPU. 
     
