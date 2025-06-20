@@ -1,5 +1,5 @@
 #/bin/bash
-CONFIG_PATH="./config.ini"
+CONFIG_PATH="../config.ini"
 ROOT_PATH="../"
 [ $# -lt 2 ] && echo "Usage: ./chcolor.sh {primary|secondary|background etc.} {HEX color e.g. ffffff}" && exit
 color_current=$(grep "$1" $CONFIG_PATH | sed -n -e "s/^$1=#//p")
