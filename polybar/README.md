@@ -15,7 +15,7 @@ Here I provide my polybar configuration and scripts
 - *(Optional)* Change color scheme with `./autoconfig/chcolor.sh`
 - Move root directory to `~/.config`
 
-**NOTE**: `./scripts/gputempctl.sh` provides GPU temp. end fan info but also controlls it via nvidia-settings. Obviously, it won't work if AMD GPU. 
+**NOTE**: `./scripts/gputempctl.sh` provides GPU temp. and fan info but also controls it via nvidia-settings. Obviously, it won't work if AMD GPU. 
     
 **NOTE**: Workspaces' icons depends on used WM and its configuration.
 
