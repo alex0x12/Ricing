@@ -11,7 +11,7 @@ Here I provide my polybar configuration and scripts
 ## Installation
 - Either fill `./autoconfig/autoconf.ini` with desired values or better edit `config.ini` manually
 - *(Optional)* Launch `./autoconfig/autoconf.sh`
-- Insert your <ins>OpenWeatherMap API Key</ins> in `./scripts/weather.sh`
+- Insert your <ins>OpenWeatherMap API Key</ins> into `./scripts/weather.sh`
 - *(Optional)* Change color scheme with `./autoconfig/chcolor.sh`
 - Move root directory to `~/.config`
 
